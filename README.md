@@ -1,7 +1,7 @@
 # GUI
 
 ## Environment Requirement
-python>=3.9
+python>=3.9  
 opencv-python>=4.8.1.78
 
 ## Run
