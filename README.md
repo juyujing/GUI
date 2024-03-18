@@ -6,6 +6,7 @@ opencv-python>=4.8.1.78
 
 ## Run
 python init_json.py
+
 python main.py
 
 ## Description
